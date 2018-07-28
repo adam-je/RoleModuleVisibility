@@ -8,8 +8,8 @@ MIT# RoleModuleVisibility
 
 How to Install
 
-1) bench get-app rolevisibilitymodule https://github.com/jvfiel/RoleModuleVisibility.git
+1) bench get-app rolemodulevisibility https://github.com/jvfiel/RoleModuleVisibility.git
 
-2) bench install-app rolevisibilitymodule
+2) bench install-app rolemodulevisibility
 
 Bai Web and Mobile Labs https://bai.ph
